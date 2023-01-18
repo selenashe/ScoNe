@@ -1,0 +1,223 @@
+,sentence,hyper,hypo,gold_outcome,prompt_type,frame_num
+0,I recently confirmed that John is not allergic to any shellfish. So it makes sense that when we served shrimp,shellfish,shrimp,No allergic reaction,neg,0
+1,I didn’t know that John is allergic to shrimp. But it makes sense that when we served shellfish,shellfish,shrimp,Allergic reaction,not_scope,0
+2,I recently confirmed that John is allergic to shrimp. So it makes sense that when we served shellfish,shellfish,shrimp,Allergic reaction,pos,0
+3,I recently confirmed that John is not allergic to any shellfish. So it makes sense that when we served crayfish,shellfish,crayfish,No allergic reaction,neg,0
+4,I didn’t know that John is allergic to crayfish. But it makes sense that when we served shellfish,shellfish,crayfish,Allergic reaction,not_scope,0
+5,I recently confirmed that John is allergic to crayfish. So it makes sense that when we served shellfish,shellfish,crayfish,Allergic reaction,pos,0
+6,I recently confirmed that John is not allergic to any shellfish. So it makes sense that when we served crab,shellfish,crab,No allergic reaction,neg,0
+7,I didn’t know that John is allergic to crab. But it makes sense that when we served shellfish,shellfish,crab,Allergic reaction,not_scope,0
+8,I recently confirmed that John is allergic to crab. So it makes sense that when we served shellfish,shellfish,crab,Allergic reaction,pos,0
+9,I recently confirmed that John is not allergic to any shellfish. So it makes sense that when we served lobster,shellfish,lobster,No allergic reaction,neg,0
+10,I didn’t know that John is allergic to lobster. But it makes sense that when we served shellfish,shellfish,lobster,Allergic reaction,not_scope,0
+11,I recently confirmed that John is allergic to lobster. So it makes sense that when we served shellfish,shellfish,lobster,Allergic reaction,pos,0
+12,I recently confirmed that John is not allergic to any shellfish. So it makes sense that when we served clams,shellfish,clams,No allergic reaction,neg,0
+13,I didn’t know that John is allergic to clams. But it makes sense that when we served shellfish,shellfish,clams,Allergic reaction,not_scope,0
+14,I recently confirmed that John is allergic to clams. So it makes sense that when we served shellfish,shellfish,clams,Allergic reaction,pos,0
+15,I recently confirmed that John is not allergic to any shellfish. So it makes sense that when we served scallops,shellfish,scallops,No allergic reaction,neg,0
+16,I didn’t know that John is allergic to scallops. But it makes sense that when we served shellfish,shellfish,scallops,Allergic reaction,not_scope,0
+17,I recently confirmed that John is allergic to scallops. So it makes sense that when we served shellfish,shellfish,scallops,Allergic reaction,pos,0
+18,I recently confirmed that John is not allergic to any shellfish. So it makes sense that when we served oysters,shellfish,oysters,No allergic reaction,neg,0
+19,I didn’t know that John is allergic to oysters. But it makes sense that when we served shellfish,shellfish,oysters,Allergic reaction,not_scope,0
+20,I recently confirmed that John is allergic to oysters. So it makes sense that when we served shellfish,shellfish,oysters,Allergic reaction,pos,0
+21,I recently confirmed that John is not allergic to any shellfish. So it makes sense that when we served mussels,shellfish,mussels,No allergic reaction,neg,0
+22,I didn’t know that John is allergic to mussels. But it makes sense that when we served shellfish,shellfish,mussels,Allergic reaction,not_scope,0
+23,I recently confirmed that John is allergic to mussels. So it makes sense that when we served shellfish,shellfish,mussels,Allergic reaction,pos,0
+24,I recently confirmed that John is not allergic to any grains. So it makes sense that when we served farro,grains,farro,No allergic reaction,neg,0
+25,I didn’t know that John is allergic to farro. But it makes sense that when we served grains,grains,farro,Allergic reaction,not_scope,0
+26,I recently confirmed that John is allergic to farro. So it makes sense that when we served grains,grains,farro,Allergic reaction,pos,0
+27,I recently confirmed that John is not allergic to any grains. So it makes sense that when we served quinoa curry,grains,quinoa curry,No allergic reaction,neg,0
+28,I didn’t know that John is allergic to quinoa curry. But it makes sense that when we served grains,grains,quinoa curry,Allergic reaction,not_scope,0
+29,I recently confirmed that John is allergic to quinoa curry. So it makes sense that when we served grains,grains,quinoa curry,Allergic reaction,pos,0
+30,I recently confirmed that John is not allergic to any grains. So it makes sense that when we served yogurt bowls with oats,grains,yogurt bowls with oats,No allergic reaction,neg,0
+31,I didn’t know that John is allergic to yogurt bowls with oats. But it makes sense that when we served grains,grains,yogurt bowls with oats,Allergic reaction,not_scope,0
+32,I recently confirmed that John is allergic to yogurt bowls with oats. So it makes sense that when we served grains,grains,yogurt bowls with oats,Allergic reaction,pos,0
+33,I recently confirmed that John is not allergic to any grains. So it makes sense that when we served brown rice pilaf,grains,brown rice pilaf,No allergic reaction,neg,0
+34,I didn’t know that John is allergic to brown rice pilaf. But it makes sense that when we served grains,grains,brown rice pilaf,Allergic reaction,not_scope,0
+35,I recently confirmed that John is allergic to brown rice pilaf. So it makes sense that when we served grains,grains,brown rice pilaf,Allergic reaction,pos,0
+36,I recently confirmed that John is not allergic to any grains. So it makes sense that when we served mushrooom wild rice,grains,mushrooom wild rice,No allergic reaction,neg,0
+37,I didn’t know that John is allergic to mushrooom wild rice. But it makes sense that when we served grains,grains,mushrooom wild rice,Allergic reaction,not_scope,0
+38,I recently confirmed that John is allergic to mushrooom wild rice. So it makes sense that when we served grains,grains,mushrooom wild rice,Allergic reaction,pos,0
+39,I recently confirmed that John is not allergic to any grains. So it makes sense that when we served buttermilk cornbread,grains,buttermilk cornbread,No allergic reaction,neg,0
+40,I didn’t know that John is allergic to buttermilk cornbread. But it makes sense that when we served grains,grains,buttermilk cornbread,Allergic reaction,not_scope,0
+41,I recently confirmed that John is allergic to buttermilk cornbread. So it makes sense that when we served grains,grains,buttermilk cornbread,Allergic reaction,pos,0
+42,I recently confirmed that John is not allergic to any grains. So it makes sense that when we served barley soup,grains,barley soup,No allergic reaction,neg,0
+43,I didn’t know that John is allergic to barley soup. But it makes sense that when we served grains,grains,barley soup,Allergic reaction,not_scope,0
+44,I recently confirmed that John is allergic to barley soup. So it makes sense that when we served grains,grains,barley soup,Allergic reaction,pos,0
+45,I recently confirmed that John is not allergic to any grains. So it makes sense that when we served roasted freekah,grains,roasted freekah,No allergic reaction,neg,0
+46,I didn’t know that John is allergic to roasted freekah. But it makes sense that when we served grains,grains,roasted freekah,Allergic reaction,not_scope,0
+47,I recently confirmed that John is allergic to roasted freekah. So it makes sense that when we served grains,grains,roasted freekah,Allergic reaction,pos,0
+48,I recently confirmed that John is not allergic to any nuts. So it makes sense that when we served shredded almonds,nuts,shredded almonds,No allergic reaction,neg,0
+49,I didn’t know that John is allergic to shredded almonds. But it makes sense that when we served nuts,nuts,shredded almonds,Allergic reaction,not_scope,0
+50,I recently confirmed that John is allergic to shredded almonds. So it makes sense that when we served nuts,nuts,shredded almonds,Allergic reaction,pos,0
+51,I recently confirmed that John is not allergic to any nuts. So it makes sense that when we served roasted walnuts,nuts,roasted walnuts,No allergic reaction,neg,0
+52,I didn’t know that John is allergic to roasted walnuts. But it makes sense that when we served nuts,nuts,roasted walnuts,Allergic reaction,not_scope,0
+53,I recently confirmed that John is allergic to roasted walnuts. So it makes sense that when we served nuts,nuts,roasted walnuts,Allergic reaction,pos,0
+54,I recently confirmed that John is not allergic to any nuts. So it makes sense that when we served pecan pie,nuts,pecan pie,No allergic reaction,neg,0
+55,I didn’t know that John is allergic to pecan pie. But it makes sense that when we served nuts,nuts,pecan pie,Allergic reaction,not_scope,0
+56,I recently confirmed that John is allergic to pecan pie. So it makes sense that when we served nuts,nuts,pecan pie,Allergic reaction,pos,0
+57,I recently confirmed that John is not allergic to any nuts. So it makes sense that when we served peanut butter,nuts,peanut butter,No allergic reaction,neg,0
+58,I didn’t know that John is allergic to peanut butter. But it makes sense that when we served nuts,nuts,peanut butter,Allergic reaction,not_scope,0
+59,I recently confirmed that John is allergic to peanut butter. So it makes sense that when we served nuts,nuts,peanut butter,Allergic reaction,pos,0
+60,I recently confirmed that John is not allergic to any nuts. So it makes sense that when we served trail mix,nuts,trail mix,No allergic reaction,neg,0
+61,I didn’t know that John is allergic to trail mix. But it makes sense that when we served nuts,nuts,trail mix,Allergic reaction,not_scope,0
+62,I recently confirmed that John is allergic to trail mix. So it makes sense that when we served nuts,nuts,trail mix,Allergic reaction,pos,0
+63,I recently confirmed that John is not allergic to any nuts. So it makes sense that when we served spicy cashew salad,nuts,spicy cashew salad,No allergic reaction,neg,0
+64,I didn’t know that John is allergic to spicy cashew salad. But it makes sense that when we served nuts,nuts,spicy cashew salad,Allergic reaction,not_scope,0
+65,I recently confirmed that John is allergic to spicy cashew salad. So it makes sense that when we served nuts,nuts,spicy cashew salad,Allergic reaction,pos,0
+66,I recently confirmed that John is not allergic to any nuts. So it makes sense that when we served almond butter oatmeal,nuts,almond butter oatmeal,No allergic reaction,neg,0
+67,I didn’t know that John is allergic to almond butter oatmeal. But it makes sense that when we served nuts,nuts,almond butter oatmeal,Allergic reaction,not_scope,0
+68,I recently confirmed that John is allergic to almond butter oatmeal. So it makes sense that when we served nuts,nuts,almond butter oatmeal,Allergic reaction,pos,0
+69,I recently confirmed that John is not allergic to any nuts. So it makes sense that when we served candied chestnut,nuts,candied chestnut,No allergic reaction,neg,0
+70,I didn’t know that John is allergic to candied chestnut. But it makes sense that when we served nuts,nuts,candied chestnut,Allergic reaction,not_scope,0
+71,I recently confirmed that John is allergic to candied chestnut. So it makes sense that when we served nuts,nuts,candied chestnut,Allergic reaction,pos,0
+72,"Jimmy doesn’t play any sports. So when all student basketball players were called to the front office to take photographs for the school newspaper,",sports,basketball,Jimmy didn’t go to the office,neg,1
+73,"Jimmy is not in very good shape, but he plays basketball. So when all student sports players were called to the front office to take photographs for the school newspaper,",sports,basketball,Jimmy went to the office,not_scope,1
+74,"Jimmy plays basketball. So when all student sports players were called to the front office to take photographs for the school newspaper,",sports,basketball,Jimmy went to the office,pos,1
+75,"Jimmy doesn’t play any sports. So when all student soccer players were called to the front office to take photographs for the school newspaper,",sports,soccer,Jimmy didn’t go to the office,neg,1
+76,"Jimmy is not in very good shape, but he plays soccer. So when all student sports players were called to the front office to take photographs for the school newspaper,",sports,soccer,Jimmy went to the office,not_scope,1
+77,"Jimmy plays soccer. So when all student sports players were called to the front office to take photographs for the school newspaper,",sports,soccer,Jimmy went to the office,pos,1
+78,"Jimmy doesn’t play any sports. So when all student volleyball players were called to the front office to take photographs for the school newspaper,",sports,volleyball,Jimmy didn’t go to the office,neg,1
+79,"Jimmy is not in very good shape, but he plays volleyball. So when all student sports players were called to the front office to take photographs for the school newspaper,",sports,volleyball,Jimmy went to the office,not_scope,1
+80,"Jimmy plays volleyball. So when all student sports players were called to the front office to take photographs for the school newspaper,",sports,volleyball,Jimmy went to the office,pos,1
+81,"Jimmy doesn’t play any sports. So when all student football players were called to the front office to take photographs for the school newspaper,",sports,football,Jimmy didn’t go to the office,neg,1
+82,"Jimmy is not in very good shape, but he plays football. So when all student sports players were called to the front office to take photographs for the school newspaper,",sports,football,Jimmy went to the office,not_scope,1
+83,"Jimmy plays football. So when all student sports players were called to the front office to take photographs for the school newspaper,",sports,football,Jimmy went to the office,pos,1
+84,"Jimmy doesn’t play any instruments. So when all student piano players were called to the front office to take photographs for the school newspaper,",instruments,piano,Jimmy didn’t go to the office,neg,1
+85,"Jimmy is not in very good shape, but he plays piano. So when all student instruments players were called to the front office to take photographs for the school newspaper,",instruments,piano,Jimmy went to the office,not_scope,1
+86,"Jimmy plays piano. So when all student instruments players were called to the front office to take photographs for the school newspaper,",instruments,piano,Jimmy went to the office,pos,1
+87,"Jimmy doesn’t play any instruments. So when all student guitar players were called to the front office to take photographs for the school newspaper,",instruments,guitar,Jimmy didn’t go to the office,neg,1
+88,"Jimmy is not in very good shape, but he plays guitar. So when all student instruments players were called to the front office to take photographs for the school newspaper,",instruments,guitar,Jimmy went to the office,not_scope,1
+89,"Jimmy plays guitar. So when all student instruments players were called to the front office to take photographs for the school newspaper,",instruments,guitar,Jimmy went to the office,pos,1
+90,"Jimmy doesn’t play any instruments. So when all student clarinet players were called to the front office to take photographs for the school newspaper,",instruments,clarinet,Jimmy didn’t go to the office,neg,1
+91,"Jimmy is not in very good shape, but he plays clarinet. So when all student instruments players were called to the front office to take photographs for the school newspaper,",instruments,clarinet,Jimmy went to the office,not_scope,1
+92,"Jimmy plays clarinet. So when all student instruments players were called to the front office to take photographs for the school newspaper,",instruments,clarinet,Jimmy went to the office,pos,1
+93,"Jimmy doesn’t play any instruments. So when all student trumpet players were called to the front office to take photographs for the school newspaper,",instruments,trumpet,Jimmy didn’t go to the office,neg,1
+94,"Jimmy is not in very good shape, but he plays trumpet. So when all student instruments players were called to the front office to take photographs for the school newspaper,",instruments,trumpet,Jimmy went to the office,not_scope,1
+95,"Jimmy plays trumpet. So when all student instruments players were called to the front office to take photographs for the school newspaper,",instruments,trumpet,Jimmy went to the office,pos,1
+96,"I’ve never seen John with a pet, so when Suzy asked me if John owns a dog,",pet,dog,I said maybe,neg,2
+97,"I’ve seen John with a dog that isn’t very cute, so when Suzy asked me if John owns a pet,",pet,dog,I said yes,not_scope,2
+98,"I saw John take his dog to the store the other day, so when Suzy asked me if John owns a pet,",pet,dog,I said yes,pos,2
+99,"I’ve never seen John with a pet, so when Suzy asked me if John owns a cat,",pet,cat,I said maybe,neg,2
+100,"I’ve seen John with a cat that isn’t very cute, so when Suzy asked me if John owns a pet,",pet,cat,I said yes,not_scope,2
+101,"I saw John take his cat to the store the other day, so when Suzy asked me if John owns a pet,",pet,cat,I said yes,pos,2
+102,"I’ve never seen John with a pet, so when Suzy asked me if John owns a parrot,",pet,parrot,I said maybe,neg,2
+103,"I’ve seen John with a parrot that isn’t very cute, so when Suzy asked me if John owns a pet,",pet,parrot,I said yes,not_scope,2
+104,"I saw John take his parrot to the store the other day, so when Suzy asked me if John owns a pet,",pet,parrot,I said yes,pos,2
+105,"I’ve never seen John with a pet, so when Suzy asked me if John owns a ferret,",pet,ferret,I said maybe,neg,2
+106,"I’ve seen John with a ferret that isn’t very cute, so when Suzy asked me if John owns a pet,",pet,ferret,I said yes,not_scope,2
+107,"I saw John take his ferret to the store the other day, so when Suzy asked me if John owns a pet,",pet,ferret,I said yes,pos,2
+108,"I’ve never seen John with a pet, so when Suzy asked me if John owns a iguana,",pet,iguana,I said maybe,neg,2
+109,"I’ve seen John with a iguana that isn’t very cute, so when Suzy asked me if John owns a pet,",pet,iguana,I said yes,not_scope,2
+110,"I saw John take his iguana to the store the other day, so when Suzy asked me if John owns a pet,",pet,iguana,I said yes,pos,2
+111,"I’ve never seen John with a car, so when Suzy asked me if John owns a BMW,",car,BMW,I said maybe,neg,2
+112,"I’ve seen John with a BMW that isn’t very cute, so when Suzy asked me if John owns a car,",car,BMW,I said yes,not_scope,2
+113,"I saw John take his BMW to the store the other day, so when Suzy asked me if John owns a car,",car,BMW,I said yes,pos,2
+114,"I’ve never seen John with a car, so when Suzy asked me if John owns a sedan,",car,sedan,I said maybe,neg,2
+115,"I’ve seen John with a sedan that isn’t very cute, so when Suzy asked me if John owns a car,",car,sedan,I said yes,not_scope,2
+116,"I saw John take his sedan to the store the other day, so when Suzy asked me if John owns a car,",car,sedan,I said yes,pos,2
+117,"I’ve never seen John with a car, so when Suzy asked me if John owns a Honda,",car,Honda,I said maybe,neg,2
+118,"I’ve seen John with a Honda that isn’t very cute, so when Suzy asked me if John owns a car,",car,Honda,I said yes,not_scope,2
+119,"I saw John take his Honda to the store the other day, so when Suzy asked me if John owns a car,",car,Honda,I said yes,pos,2
+120,"I’ve never seen John with a car, so when Suzy asked me if John owns a Subaru Forester,",car,Subaru Forester,I said maybe,neg,2
+121,"I’ve seen John with a Subaru Forester that isn’t very cute, so when Suzy asked me if John owns a car,",car,Subaru Forester,I said yes,not_scope,2
+122,"I saw John take his Subaru Forester to the store the other day, so when Suzy asked me if John owns a car,",car,Subaru Forester,I said yes,pos,2
+123,"There is a restaurant down the street that does not have meat. My friend is visiting the city for the first time today. He walked into that store to order pork belly stir fry, and the waiter said",meat,pork belly stir fry,we don’t serve HYPO here,neg,3
+124,"There is a restaurant not far from the city center that serves pork belly stir fry. My friend is visiting the city for the first time today. He walked into that store to order meat, and the waiter said",meat,pork belly stir fry,yes we have HYPO,not_scope,3
+125,"There is a restaurant down the street that has pork belly stir fry. My friend is visiting the city for the first time today. He walked into that store to order meat, and the waiter said",meat,pork belly stir fry,yes we have HYPO,pos,3
+126,"There is a restaurant down the street that does not have meat. My friend is visiting the city for the first time today. He walked into that store to order a burger and fries, and the waiter said",meat,a burger and fries,we don’t serve HYPO here,neg,3
+127,"There is a restaurant not far from the city center that serves a burger and fries. My friend is visiting the city for the first time today. He walked into that store to order meat, and the waiter said",meat,a burger and fries,yes we have HYPO,not_scope,3
+128,"There is a restaurant down the street that has a burger and fries. My friend is visiting the city for the first time today. He walked into that store to order meat, and the waiter said",meat,a burger and fries,yes we have HYPO,pos,3
+129,"There is a restaurant down the street that does not have meat. My friend is visiting the city for the first time today. He walked into that store to order a lamb kebab, and the waiter said",meat,a lamb kebab,we don’t serve HYPO here,neg,3
+130,"There is a restaurant not far from the city center that serves a lamb kebab. My friend is visiting the city for the first time today. He walked into that store to order meat, and the waiter said",meat,a lamb kebab,yes we have HYPO,not_scope,3
+131,"There is a restaurant down the street that has a lamb kebab. My friend is visiting the city for the first time today. He walked into that store to order meat, and the waiter said",meat,a lamb kebab,yes we have HYPO,pos,3
+132,"There is a restaurant down the street that does not have meat. My friend is visiting the city for the first time today. He walked into that store to order grilled flank steak, and the waiter said",meat,grilled flank steak,we don’t serve HYPO here,neg,3
+133,"There is a restaurant not far from the city center that serves grilled flank steak. My friend is visiting the city for the first time today. He walked into that store to order meat, and the waiter said",meat,grilled flank steak,yes we have HYPO,not_scope,3
+134,"There is a restaurant down the street that has grilled flank steak. My friend is visiting the city for the first time today. He walked into that store to order meat, and the waiter said",meat,grilled flank steak,yes we have HYPO,pos,3
+135,"There is a restaurant down the street that does not have noodles. My friend is visiting the city for the first time today. He walked into that store to order spaghetti and meatballs, and the waiter said",noodles,spaghetti and meatballs,we don’t serve HYPO here,neg,3
+136,"There is a restaurant not far from the city center that serves spaghetti and meatballs. My friend is visiting the city for the first time today. He walked into that store to order noodles, and the waiter said",noodles,spaghetti and meatballs,yes we have HYPO,not_scope,3
+137,"There is a restaurant down the street that has spaghetti and meatballs. My friend is visiting the city for the first time today. He walked into that store to order noodles, and the waiter said",noodles,spaghetti and meatballs,yes we have HYPO,pos,3
+138,"There is a restaurant down the street that does not have noodles. My friend is visiting the city for the first time today. He walked into that store to order chow mein, and the waiter said",noodles,chow mein,we don’t serve HYPO here,neg,3
+139,"There is a restaurant not far from the city center that serves chow mein. My friend is visiting the city for the first time today. He walked into that store to order noodles, and the waiter said",noodles,chow mein,yes we have HYPO,not_scope,3
+140,"There is a restaurant down the street that has chow mein. My friend is visiting the city for the first time today. He walked into that store to order noodles, and the waiter said",noodles,chow mein,yes we have HYPO,pos,3
+141,"There is a restaurant down the street that does not have noodles. My friend is visiting the city for the first time today. He walked into that store to order pasta, and the waiter said",noodles,pasta,we don’t serve HYPO here,neg,3
+142,"There is a restaurant not far from the city center that serves pasta. My friend is visiting the city for the first time today. He walked into that store to order noodles, and the waiter said",noodles,pasta,yes we have HYPO,not_scope,3
+143,"There is a restaurant down the street that has pasta. My friend is visiting the city for the first time today. He walked into that store to order noodles, and the waiter said",noodles,pasta,yes we have HYPO,pos,3
+144,"There is a restaurant down the street that does not have noodles. My friend is visiting the city for the first time today. He walked into that store to order udon stir fry, and the waiter said",noodles,udon stir fry,we don’t serve HYPO here,neg,3
+145,"There is a restaurant not far from the city center that serves udon stir fry. My friend is visiting the city for the first time today. He walked into that store to order noodles, and the waiter said",noodles,udon stir fry,yes we have HYPO,not_scope,3
+146,"There is a restaurant down the street that has udon stir fry. My friend is visiting the city for the first time today. He walked into that store to order noodles, and the waiter said",noodles,udon stir fry,yes we have HYPO,pos,3
+147,"My aunt Jan is an artist, and they don’t find the color blue to be pretty. This is why aqua pigments",blue,aqua,don’t often appear in their paintings,neg,4
+148,"My aunt Jan isn’t a very good listener, but is very good at art. They find the color aqua to be pretty. This is why blue pigments",blue,aqua,appear often in their paintings,not_scope,4
+149,"My aunt Jan is an artist, and they find the color blue to be pretty. This is why aqua pigments",blue,aqua,appear often in their paintings,pos,4
+150,"My aunt Jan is an artist, and they don’t find the color blue to be pretty. This is why cerulean pigments",blue,cerulean,don’t often appear in their paintings,neg,4
+151,"My aunt Jan isn’t a very good listener, but is very good at art. They find the color cerulean to be pretty. This is why blue pigments",blue,cerulean,appear often in their paintings,not_scope,4
+152,"My aunt Jan is an artist, and they find the color blue to be pretty. This is why cerulean pigments",blue,cerulean,appear often in their paintings,pos,4
+153,"My aunt Jan is an artist, and they don’t find the color blue to be pretty. This is why azure pigments",blue,azure,don’t often appear in their paintings,neg,4
+154,"My aunt Jan isn’t a very good listener, but is very good at art. They find the color azure to be pretty. This is why blue pigments",blue,azure,appear often in their paintings,not_scope,4
+155,"My aunt Jan is an artist, and they find the color blue to be pretty. This is why azure pigments",blue,azure,appear often in their paintings,pos,4
+156,"My aunt Jan is an artist, and they don’t find the color blue to be pretty. This is why navy pigments",blue,navy,don’t often appear in their paintings,neg,4
+157,"My aunt Jan isn’t a very good listener, but is very good at art. They find the color navy to be pretty. This is why blue pigments",blue,navy,appear often in their paintings,not_scope,4
+158,"My aunt Jan is an artist, and they find the color blue to be pretty. This is why navy pigments",blue,navy,appear often in their paintings,pos,4
+159,"My aunt Jan is an artist, and they don’t find the color purple to be pretty. This is why lavender pigments",purple,lavender,don’t often appear in their paintings,neg,4
+160,"My aunt Jan isn’t a very good listener, but is very good at art. They find the color lavender to be pretty. This is why purple pigments",purple,lavender,appear often in their paintings,not_scope,4
+161,"My aunt Jan is an artist, and they find the color purple to be pretty. This is why lavender pigments",purple,lavender,appear often in their paintings,pos,4
+162,"My aunt Jan is an artist, and they don’t find the color purple to be pretty. This is why plum pigments",purple,plum,don’t often appear in their paintings,neg,4
+163,"My aunt Jan isn’t a very good listener, but is very good at art. They find the color plum to be pretty. This is why purple pigments",purple,plum,appear often in their paintings,not_scope,4
+164,"My aunt Jan is an artist, and they find the color purple to be pretty. This is why plum pigments",purple,plum,appear often in their paintings,pos,4
+165,"My aunt Jan is an artist, and they don’t find the color purple to be pretty. This is why lilac pigments",purple,lilac,don’t often appear in their paintings,neg,4
+166,"My aunt Jan isn’t a very good listener, but is very good at art. They find the color lilac to be pretty. This is why purple pigments",purple,lilac,appear often in their paintings,not_scope,4
+167,"My aunt Jan is an artist, and they find the color purple to be pretty. This is why lilac pigments",purple,lilac,appear often in their paintings,pos,4
+168,"My aunt Jan is an artist, and they don’t find the color purple to be pretty. This is why violet pigments",purple,violet,don’t often appear in their paintings,neg,4
+169,"My aunt Jan isn’t a very good listener, but is very good at art. They find the color violet to be pretty. This is why purple pigments",purple,violet,appear often in their paintings,not_scope,4
+170,"My aunt Jan is an artist, and they find the color purple to be pretty. This is why violet pigments",purple,violet,appear often in their paintings,pos,4
+171,"Glen is not a fan of learning languages. When he sees that his new high school requires that he take a German course, he",languages,German,not pleased,neg,5
+172,"Glen isn’t just a fan of learning languages, he’s obsessive. When he sees that his new high school requires that he take a German course, he",languages,German,pleased,not_scope,5
+173,"Glen is a fan of learning languages. When he sees that his new high school requires that he take a German course, he",languages,German,pleased,pos,5
+174,"Glen is not a fan of learning languages. When he sees that his new high school requires that he take a Spanish course, he",languages,Spanish,not pleased,neg,5
+175,"Glen isn’t just a fan of learning languages, he’s obsessive. When he sees that his new high school requires that he take a Spanish course, he",languages,Spanish,pleased,not_scope,5
+176,"Glen is a fan of learning languages. When he sees that his new high school requires that he take a Spanish course, he",languages,Spanish,pleased,pos,5
+177,"Glen is not a fan of learning languages. When he sees that his new high school requires that he take a French course, he",languages,French,not pleased,neg,5
+178,"Glen isn’t just a fan of learning languages, he’s obsessive. When he sees that his new high school requires that he take a French course, he",languages,French,pleased,not_scope,5
+179,"Glen is a fan of learning languages. When he sees that his new high school requires that he take a French course, he",languages,French,pleased,pos,5
+180,"Glen is not a fan of learning languages. When he sees that his new high school requires that he take a Mandarin course, he",languages,Mandarin,not pleased,neg,5
+181,"Glen isn’t just a fan of learning languages, he’s obsessive. When he sees that his new high school requires that he take a Mandarin course, he",languages,Mandarin,pleased,not_scope,5
+182,"Glen is a fan of learning languages. When he sees that his new high school requires that he take a Mandarin course, he",languages,Mandarin,pleased,pos,5
+183,"Glen is not a fan of learning languages. When he sees that his new high school requires that he take a Portuguese course, he",languages,Portuguese,not pleased,neg,5
+184,"Glen isn’t just a fan of learning languages, he’s obsessive. When he sees that his new high school requires that he take a Portuguese course, he",languages,Portuguese,pleased,not_scope,5
+185,"Glen is a fan of learning languages. When he sees that his new high school requires that he take a Portuguese course, he",languages,Portuguese,pleased,pos,5
+186,"Glen is not a fan of learning math. When he sees that his new high school requires that he take a algebra course, he",math,algebra,not pleased,neg,5
+187,"Glen isn’t just a fan of learning math, he’s obsessive. When he sees that his new high school requires that he take a algebra course, he",math,algebra,pleased,not_scope,5
+188,"Glen is a fan of learning math. When he sees that his new high school requires that he take a algebra course, he",math,algebra,pleased,pos,5
+189,"Glen is not a fan of learning math. When he sees that his new high school requires that he take a analysis course, he",math,analysis,not pleased,neg,5
+190,"Glen isn’t just a fan of learning math, he’s obsessive. When he sees that his new high school requires that he take a analysis course, he",math,analysis,pleased,not_scope,5
+191,"Glen is a fan of learning math. When he sees that his new high school requires that he take a analysis course, he",math,analysis,pleased,pos,5
+192,"Glen is not a fan of learning math. When he sees that his new high school requires that he take a geometry course, he",math,geometry,not pleased,neg,5
+193,"Glen isn’t just a fan of learning math, he’s obsessive. When he sees that his new high school requires that he take a geometry course, he",math,geometry,pleased,not_scope,5
+194,"Glen is a fan of learning math. When he sees that his new high school requires that he take a geometry course, he",math,geometry,pleased,pos,5
+195,"Glen is not a fan of learning math. When he sees that his new high school requires that he take a calculus course, he",math,calculus,not pleased,neg,5
+196,"Glen isn’t just a fan of learning math, he’s obsessive. When he sees that his new high school requires that he take a calculus course, he",math,calculus,pleased,not_scope,5
+197,"Glen is a fan of learning math. When he sees that his new high school requires that he take a calculus course, he",math,calculus,pleased,pos,5
+198,My friend Jane doesn’t own any jewelry. So it makes sense that when I asked her whether I could borrow some earrings,jewelry,earrings,she said no,neg,6
+199,My friend Jane who I haven’t seen for a while owns some nice earrings. So it makes sense that when I asked her whether I could borrow some jewelry,jewelry,earrings,she said yes,not_scope,6
+200,My friend Jane owns some nice earrings. So it makes sense that when I asked her whether I could borrow some jewelry,jewelry,earrings,she said yes,pos,6
+201,My friend Jane doesn’t own any jewelry. So it makes sense that when I asked her whether I could borrow some necklaces,jewelry,necklaces,she said no,neg,6
+202,My friend Jane who I haven’t seen for a while owns some nice necklaces. So it makes sense that when I asked her whether I could borrow some jewelry,jewelry,necklaces,she said yes,not_scope,6
+203,My friend Jane owns some nice necklaces. So it makes sense that when I asked her whether I could borrow some jewelry,jewelry,necklaces,she said yes,pos,6
+204,My friend Jane doesn’t own any jewelry. So it makes sense that when I asked her whether I could borrow some bracelets,jewelry,bracelets,she said no,neg,6
+205,My friend Jane who I haven’t seen for a while owns some nice bracelets. So it makes sense that when I asked her whether I could borrow some jewelry,jewelry,bracelets,she said yes,not_scope,6
+206,My friend Jane owns some nice bracelets. So it makes sense that when I asked her whether I could borrow some jewelry,jewelry,bracelets,she said yes,pos,6
+207,My friend Jane doesn’t own any jewelry. So it makes sense that when I asked her whether I could borrow some rings,jewelry,rings,she said no,neg,6
+208,My friend Jane who I haven’t seen for a while owns some nice rings. So it makes sense that when I asked her whether I could borrow some jewelry,jewelry,rings,she said yes,not_scope,6
+209,My friend Jane owns some nice rings. So it makes sense that when I asked her whether I could borrow some jewelry,jewelry,rings,she said yes,pos,6
+210,My friend Jane doesn’t own any furniture. So it makes sense that when I asked her whether I could borrow some tables,furniture,tables,she said no,neg,6
+211,My friend Jane who I haven’t seen for a while owns some nice tables. So it makes sense that when I asked her whether I could borrow some furniture,furniture,tables,she said yes,not_scope,6
+212,My friend Jane owns some nice tables. So it makes sense that when I asked her whether I could borrow some furniture,furniture,tables,she said yes,pos,6
+213,My friend Jane doesn’t own any furniture. So it makes sense that when I asked her whether I could borrow some chairs,furniture,chairs,she said no,neg,6
+214,My friend Jane who I haven’t seen for a while owns some nice chairs. So it makes sense that when I asked her whether I could borrow some furniture,furniture,chairs,she said yes,not_scope,6
+215,My friend Jane owns some nice chairs. So it makes sense that when I asked her whether I could borrow some furniture,furniture,chairs,she said yes,pos,6
+216,My friend Jane doesn’t own any furniture. So it makes sense that when I asked her whether I could borrow some table lamps,furniture,table lamps,she said no,neg,6
+217,My friend Jane who I haven’t seen for a while owns some nice table lamps. So it makes sense that when I asked her whether I could borrow some furniture,furniture,table lamps,she said yes,not_scope,6
+218,My friend Jane owns some nice table lamps. So it makes sense that when I asked her whether I could borrow some furniture,furniture,table lamps,she said yes,pos,6
+219,My friend Jane doesn’t own any furniture. So it makes sense that when I asked her whether I could borrow some mirrors,furniture,mirrors,she said no,neg,6
+220,My friend Jane who I haven’t seen for a while owns some nice mirrors. So it makes sense that when I asked her whether I could borrow some furniture,furniture,mirrors,she said yes,not_scope,6
+221,My friend Jane owns some nice mirrors. So it makes sense that when I asked her whether I could borrow some furniture,furniture,mirrors,she said yes,pos,6
