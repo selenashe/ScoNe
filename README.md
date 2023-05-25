@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the ScoNe-NLI and ScoNe-NLG datasets introduced in the ScoNe paper.
+Hi! This repository contains the datasets introduced in the paper **ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning.**
 
 ## ScoNe-NLI
 
@@ -12,8 +12,10 @@ ScoNe-NLI contains contrast sets of five examples where entailment relations are
 * `one_not_scoped.csv`: One negation that does not scope over the relevant lexical item. 
 * `two_not_scoped.csv`: Two negations, neither scope over the relevant lexical item. 
 * `two_scoped.csv`: Two negations, one scopes over the relevant lexical item, but the second scopes over the first, canceling it out. 
-* `one_scoped.csv`: One negation that scopes over the relevant lexical item.
+* `one_scoped.csv`: One negation that scopes over the relevant lexical item. This split contains the negated examples (NMoNLI) from Geiger et al., 2020.
 * `one_scoped_one_not_scoped.csv`: Two negations, but only one scopes over the relevant lexical item.
+
+In each file, premises and hypotheses are the columns labeled `sentence1_edited` and `sentence2_edited`. The entailment relations are in the `gold_label_edited` column. One exception is the `one_scoped.csv` file, where they are just labeled as `sentence1`, `sentence2`, and `gold_label`.
 
 ## ScoNe-NLG
 
@@ -22,7 +24,6 @@ ScoNe-NLG is a natural language generation dataset that contains 74 contrasting 
 ## Language
 
 English
-
 
 ## Citing Our Work
 
