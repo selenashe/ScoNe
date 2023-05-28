@@ -6,7 +6,7 @@ Hi! This repository contains the datasets introduced in the paper **ScoNe: Bench
 
 ## ScoNe-NLI
 
-ScoNe-NLI contains contrast sets of five examples where entailment relations are impacted by the scope of one or two negations. The five splits have 1202 examples each:
+ScoNe-NLI contains contrast sets of six examples where entailment relations are impacted by the scope of one or two negations. The six splits have 1202 examples each:
 
 * `no_negation.csv`: No negation is present.
 * `one_not_scoped.csv`: One negation that does not scope over the relevant lexical item. 
