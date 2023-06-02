@@ -28,5 +28,12 @@ English
 ## Citing Our Work
 
 ````
-@inproceedings{
+@misc{she2023scone,
+      title={ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning}, 
+      author={Jingyuan Selena She and Christopher Potts and Samuel R. Bowman and Atticus Geiger},
+      year={2023},
+      eprint={2305.19426},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ````
