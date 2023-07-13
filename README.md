@@ -28,12 +28,19 @@ English
 ## Citing Our Work
 
 ````
-@misc{she2023scone,
-      title={ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning}, 
-      author={Jingyuan Selena She and Christopher Potts and Samuel R. Bowman and Atticus Geiger},
-      year={2023},
-      eprint={2305.19426},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{she-etal-2023-scone,
+    title = "{S}co{N}e: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning",
+    author = "She, Jingyuan S.  and
+      Potts, Christopher  and
+      Bowman, Samuel R.  and
+      Geiger, Atticus",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-short.154",
+    pages = "1803--1821",
+    abstract = "A number of recent benchmarks seek to assess how well models handle natural language negation. However, these benchmarks lack the controlled example paradigms that would allow us to infer whether a model had truly learned how negation morphemes semantically scope. To fill these analytical gaps, we present the Scoped Negation NLI (ScoNe-NLI) benchmark, which contains contrast sets of six examples with up to two negations where either zero, one, or both negative morphemes affect the NLI label. We use ScoNe-NLI to assess fine-tuning and in-context learning strategies. We find that RoBERTa and DeBERTa models solve ScoNe-NLI after many shot fine-tuning. For in-context learning, we test the latest InstructGPT models and find that most prompt strategies are not successful, including those using step-by-step reasoning. To better understand this result, we extend ScoNe with ScoNe-NLG, a sentence completion test set that embeds negation reasoning in short narratives. Here, InstructGPT is successful, which reveals the model can correctly reason about negation, but struggles to do so on NLI examples outside of its core pretraining regime.",
 }
 ````
